@@ -1,2 +1,2 @@
-# sign_leng_IA
-Sistemas Inteligentes Proyecto Final, Interprete de lenguaje de señas a través de una IA
+# IA_Sign_Leng
+Proyecto de la Materia Sistemas Inteligentes, Interprete de lenguaje de señas a traves de una IA
